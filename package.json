@@ -1,0 +1,12 @@
+{
+  "name": "password-generator-ts",
+  "author": "Mahmoud Okily",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "run": "npx tsc && node index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}

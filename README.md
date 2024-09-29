@@ -1,1 +1,1 @@
-# passwoed-generatro-ts
+# password-generator-ts
