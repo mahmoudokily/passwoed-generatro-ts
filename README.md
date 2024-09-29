@@ -2,13 +2,15 @@
 
 ## Available Commands
 
+To install npm packages
+
 ```typescript
-// to install npm packages
 npm install
 ```
 
-```typescript
-//to build javascript and run generate password function
+To build javascript and run generate password function
 
-run: generator;
+```typescript
+
+npm run:generator;
 ```
