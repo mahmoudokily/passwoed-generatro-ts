@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "run": "npx tsc && node index.js"
+    "build": "npx tsc",
+    "run:generator": "npm run build && node index.js"
   },
   "devDependencies": {
     "typescript": "^5.6.2"
